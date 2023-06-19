@@ -1,4 +1,4 @@
-# MyGamingPC
+# Austin Gaming PC
 My Gaming PC Specs as of June 19, 2023
 
 ## Custom Build
