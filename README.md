@@ -3,31 +3,21 @@ My Gaming PC Specs as of June 19, 2023
 
 ## Custom Build
 
-Sure! Here's the equivalent Markdown code:
-
-```
 [PCPartPicker Part List](https://pcpartpicker.com/list/WH44Rv)
 
 | Type        | Item                                                                                                                                  | Price                     |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| CPU         | [AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof) | [$438.00 @ Newegg](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof) |
-| CPU Cooler  | [Noctua NH-D15S 82.52 CFM CPU Cooler](https://pcpartpicker.com/product/xCL7YJ/noctua-nh-d15s-8252-cfm-cpu-cooler-nh-d15s)                    | [$99.95 @ Amazon](https://pcpartpicker.com/product/xCL7YJ/noctua-nh-d15s-8252-cfm-cpu-cooler-nh-d15s)                   |
-| Motherboard | [ASRock X670E Steel Legend ATX AM5 Motherboard](https://pcpartpicker.com/product/CtPQzy/asrock-x670e-steel-legend-atx-am5-motherboard-x670e-steel-legend)     | [$299.99 @ Newegg](https://pcpartpicker.com/product/CtPQzy/asrock-x670e-steel-legend-atx-am5-motherboard-x670e-steel-legend) |
-| Memory      | [G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory](https://pcpartpicker.com/product/mhJgXL/gskill-trident-z5-rgb-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-f5-6000j3636f16gx2-tz5rk) | [$109.99 @ Newegg](https://pcpartpicker.com/product/mhJgXL/gskill-trident-z5-rgb-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-f5-6000j3636f16gx2-tz5rk) |
-| Memory      | [G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory](https://pcpartpicker.com/product/mhJgXL/gskill-trident-z5-rgb-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-f5-6000j3636f16gx2-tz5rk) | [$109.99 @ Newegg](https://pcpartpicker.com/product/mhJgXL/gskill-trident-z5-rgb-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-f5-6000j3636f16gx2-tz5rk) |
-| Storage     | [Samsung 970 Evo Plus 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive](https://pcpartpicker.com/product/Zxw7YJ/samsung-970-evo-plus-1-tb-m2-2280-nvme-solid-state-drive-mz-v7s1t0bam)
-
-               | [$54.99 @ Amazon](https://pcpartpicker.com/product/Zxw7YJ/samsung-970-evo-plus-1-tb-m2-2280-nvme-solid-state-drive-mz-v7s1t0bam) |
-| Storage     | [Samsung 970 Evo Plus 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive](https://pcpartpicker.com/product/Zxw7YJ/samsung-970-evo-plus-1-tb-m2-2280-nvme-solid-state-drive-mz-v7s1t0bam)               | [$54.99 @ Amazon](https://pcpartpicker.com/product/Zxw7YJ/samsung-970-evo-plus-1-tb-m2-2280-nvme-solid-state-drive-mz-v7s1t0bam) |
-| Storage     | [Western Digital Black SN850X 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive](https://pcpartpicker.com/product/crKKHx/western-digital-black-sn850x-2-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds200t2x0e)  | [$139.99 @ Adorama](https://pcpartpicker.com/product/crKKHx/western-digital-black-sn850x-2-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds200t2x0e) |
-| Video Card  | [MSI MECH 2X OC Radeon RX 6700 XT 12 GB Video Card](https://pcpartpicker.com/product/9K4Ycf/msi-radeon-rx-6700-xt-12-gb-mech-2x-oc-video-card-radeon-rx-6700-xt-mech-2x-12g-oc)                       | [$339.99 @ Newegg](https://pcpartpicker.com/product/9K4Ycf/msi-radeon-rx-6700-xt-12-gb-mech-2x-oc-video-card-radeon-rx-6700-xt-mech-2x-12g-oc) |
-| Case        | [NZXT H7 Flow ATX Mid Tower Case](https://pcpartpicker.com/product/Ckt9TW/nzxt-h7-flow-atx-mid-tower-case-cm-h71fw-01)                          | [$129.99 @ Amazon](https://pcpartpicker.com/product/Ckt9TW/nzxt-h7-flow-atx-mid-tower-case-cm-h71fw-01)                  |
-| Power Supply | [Corsair RM850 850 W 80+ Gold Certified Fully Modular ATX Power Supply](https://pcpartpicker.com/product/9KGbt6/corsair-rm850-850-w-80-gold-certified-fully-modular-atx-power-supply-cp-9020232-na)          | [$139.95 @ B&H](https://pcpartpicker.com/product/9KGbt6/corsair-rm850-850-w-80-gold-certified-fully-modular-atx-power-supply-cp-9020232-na) |
+| CPU         | [AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof) | $438.00 @ Newegg          |
+| CPU Cooler  | [Noctua NH-D15S 82.52 CFM CPU Cooler](https://pcpartpicker.com/product/xCL7YJ/noctua-nh-d15s-8252-cfm-cpu-cooler-nh-d15s)                    | $99.95 @ Amazon           |
+| Motherboard | [ASRock X670E Steel Legend ATX AM5 Motherboard](https://pcpartpicker.com/product/CtPQzy/asrock-x670e-steel-legend-atx-am5-motherboard-x670e-steel-legend)     | $299.99 @ Newegg          |
+| Memory      | [G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory](https://pcpartpicker.com/product/mhJgXL/gskill-trident-z5-rgb-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-f5-6000j3636f16gx2-tz5rk) | $109.99 @ Newegg          |
+| Memory      | [G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory](https://pcpartpicker.com/product/mhJgXL/gskill-trident-z5-rgb-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-f5-6000j3636f16gx2-tz5rk) | $109.99 @ Newegg          |
+| Storage     | [Samsung 970 Evo Plus 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive](https://pcpartpicker.com/product/Zxw7YJ/samsung-970-evo-plus-1-tb-m2-2280-nvme-solid-state-drive-mz-v7s1t0bam) | $54.99 @ Amazon           |
+| Storage     | [Samsung 970 Evo Plus 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive](https://pcpartpicker.com/product/Zxw7YJ/samsung-970-evo-plus-1-tb-m2-2280-nvme-solid-state-drive-mz-v7s1t0bam) | $54.99 @ Amazon           |
+| Storage     | [Western Digital Black SN850X 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive](https://pcpartpicker.com/product/crKKHx/western-digital-black-sn850x-2-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds200t2x0e)  | $139.99 @ Adorama         |
+| Video Card  | [MSI MECH 2X OC Radeon RX 6700 XT 12 GB Video Card](https://pcpartpicker.com/product/9K4Ycf/msi-radeon-rx-6700-xt-12-gb-mech-2x-oc-video-card-radeon-rx-6700-xt-mech-2x-12g-oc)                       | $339.99 @ Newegg          |
+| Case        | [NZXT H7 Flow ATX Mid Tower Case](https://pcpartpicker.com/product/Ckt9TW/nzxt-h7-flow-atx-mid-tower-case-cm-h71fw-01)                          | $129.99 @ Amazon          |
+| Power Supply | [Corsair RM850 850 W 80+ Gold Certified Fully Modular ATX Power Supply](https://pcpartpicker.com/product/9KGbt6/corsair-rm850-850-w-80-gold-certified-fully-modular-atx-power-supply-cp-9020232-na)          | $139.95 @ B&H             |
 |             | Prices include shipping, taxes, rebates, and discounts                                                                                  |                           |
-|             | Total                                                                                                                                 | $1917.82                  |
+|             | **Total**                                                                                                                             | **$1917.82**              |
 |             | Generated by [PCPartPicker](https://pcpartpicker.com) 2023-06-19 18:10 EDT-0400                                                        |                           |
-```
-
-
-
-This Markdown code should render the table with the provided HTML content.
